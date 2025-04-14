@@ -28,17 +28,24 @@
 - Leveraged **Elite360** and internal tools to diagnose mislabeled job groups and identify patterns in resource failures  
 - Led 15+ **Root Cause Analyses (RCAs)** and responded to 20+ critical service disruptions to improve uptime
 
-
 ### 🧠 Quadrant Technologies — Data Science Intern  
 *Jul 2024 – Aug 2024 · Redmond, WA*  
-- Created Azure Logic App flows to compare pricing data across retailers  
-- Automated 150+ monthly email alerts using C# and Azure pipelines  
-- Improved database performance and reduced deployment time by 25%
+- Designed and deployed 3 Azure Logic App workflows to track price fluctuations across competing retailers  
+- Integrated **Azure Data Factory** to process 25+ pricing attributes from CSVs and identify pricing gaps  
+- Coded custom **C# scripts** to automate email alerts and Gmail-based pop-up notifications, resulting in 150+ monthly alerts  
+- Streamlined issue tracking using **Azure DevOps**, accelerating team coordination and reducing deployment time by 25%  
+- Optimized database schemas and queries, improving data retrieval performance by 40% for end-users  
+- Collaborated cross-functionally with engineering teams to enhance real-time alert systems for pricing changes
+
+---
 
 ### 🧑‍🏫 Syracuse University — Data Science Mentor  
 *Jan 2023 – May 2024 · Syracuse, NY*  
-- Delivered beginner bootcamps on Python and Azure  
-- Mentored teams at hackathons on project management and analytics
+- Facilitated hands-on workshops and webinars on **Python programming, data science, and Azure cloud fundamentals**  
+- Mentored beginner and intermediate learners, guiding them through real-world projects and portfolio development  
+- Provided strategic support to hackathon teams on **data analytics, project planning, and tool selection**  
+- Volunteered at university tech events, fostering an inclusive environment for knowledge-sharing and innovation  
+- Helped aspiring developers overcome learning barriers and reach project milestones with tailored mentorship
 
 ---
 
