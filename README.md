@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Oviyah Sridhar!
 
 ## 💻 About Me  
-🔹 I'm a recent MS graduate in Computer and Information Science from **Syracuse University**  
-🔹 Experienced in cloud-native development, data analytics, and software reliability  
-🔹 Ex-Microsoft Software Engineer (Contract) – resolved 300+ Azure Synapse issues and led 15+ RCAs  
-🔹 Built cloud automation tools using Azure Logic Apps, Data Factory, and DevOps pipelines  
-🔹 Passionate about building scalable systems, improving data insights, and delivering impact
+🔹 MS in Computer and Information Science from Syracuse University  
+🔹 Hands-on experience in cloud-native development, data analytics, and system reliability  
+🔹 Former Microsoft Software Engineer (Contract) – resolved 300+ Azure Synapse issues and led 15+ Root Cause Analyses  
+🔹 Built scalable automation tools using Azure Logic Apps, Data Factory, and CI/CD pipelines  
+🔹 Passionate about delivering impactful solutions through clean architecture, real-time insights, and collaborative engineering
 
 ---
 
