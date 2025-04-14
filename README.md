@@ -52,16 +52,20 @@
 ## 📊 Research & Projects
 
 ### 🍔 Food Delivery System (OOD Project)  
-- Designed a scalable platform for Schine Center food services  
-- Improved operational efficiency by 30% and team delivery by 35%
+- Developed a scalable food delivery platform tailored for Syracuse University's Schine Center  
+- Streamlined operational workflows, improving service efficiency by 30% and reducing delivery delays by 35%  
+- Used **Object-Oriented Design principles** and managed sprints with **Jira** to ensure on-time project delivery
 
-### 💬 Social Media Sentiment Analysis  
-- Analyzed Reddit data on historical events using VADER  
-- Boosted classification accuracy by 25% and visualized insights with Colab
+### 💬 Social Media Sentiment Analysis (Reddit Historical Events)  
+- Conducted large-scale sentiment analysis on Reddit data using the **VADER analyzer** to classify 5,000+ posts  
+- Improved classification accuracy by 25% using advanced **NLP techniques** and data cleaning  
+- Visualized insights with **Google Colab**, generating time series plots, pie charts, and word clouds for stakeholder presentations
 
 ### 🎬 Movie Review NLP with BERT  
-- Applied BERT to sentiment classification, reaching 92% accuracy  
-- Used advanced preprocessing and feature engineering techniques
+- Built a BERT-based model for movie review sentiment classification, achieving **92% accuracy**  
+- Enhanced model performance with **tokenization**, **stop-word removal**, and **feature engineering**  
+- Delivered clear, actionable insights using data visualization and trend analysis techniques
+
 
 ---
 
