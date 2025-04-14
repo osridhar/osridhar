@@ -21,10 +21,13 @@
 
 ### 💼 Microsoft (Contract) — Software Engineer  
 *Sep 2024 – Mar 2025 · Redmond, WA*  
-- Led incident response for Azure Synapse, resolving 10+ daily critical issues  
-- Used KQL to analyze telemetry data and improve system reliability  
-- Collaborated with 15 PMs on weekly service reliability reports  
-- Reduced system downtime by proactively handling authentication/storage disruptions
+- Acted as the DRI for Azure Synapse, managing over 300+ monthly incidents to ensure system reliability  
+- Used **Kusto Query Language (KQL)** to analyze telemetry data and uncover root causes of disruptions  
+- Handled **ICM incidents** across services involving **Active Directory**, authentication failures, and storage issues  
+- Delivered service health updates and **Weekly Service Reliability (WSR)** reports by collaborating with 15+ PMs  
+- Leveraged **Elite360** and internal tools to diagnose mislabeled job groups and identify patterns in resource failures  
+- Led 15+ **Root Cause Analyses (RCAs)** and responded to 20+ critical service disruptions to improve uptime
+
 
 ### 🧠 Quadrant Technologies — Data Science Intern  
 *Jul 2024 – Aug 2024 · Redmond, WA*  
